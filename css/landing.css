@@ -51,6 +51,7 @@ body {
   
   .payments { grid-area: payments; }
   
+  /* Begin Craig's Footer */
   .footer { 
     grid-area: footer;
     background-color: #0850F8;
@@ -89,6 +90,9 @@ body {
   
   }
   
+  /* End Craig's Footer */
+
+  /* Begin Craig's Solutions for Business */
   .content3 {  display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: auto 1fr 1fr;
@@ -133,5 +137,6 @@ body {
   .p-content3-fine-print{
     text-align: center;
     font-size: 10px;
-   
   }
+
+  /* End Craig's Solutions for Business */
